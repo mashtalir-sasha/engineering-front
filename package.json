@@ -1,7 +1,7 @@
 {
-	"name": "wamp-v2",
+	"name": "engineering-front",
 	"version": "1.0.0",
-	"description": "wamp-v2",
+	"description": "engineering-front",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
